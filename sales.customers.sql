@@ -1,0 +1,6 @@
+SELECT TOP (1000) [CustomerID]
+      ,[FirstName]
+      ,[LastName]
+      ,[Country]
+      ,[Score]
+  FROM [SalesDB].[Sales].[Customers]
