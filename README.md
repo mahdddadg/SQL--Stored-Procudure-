@@ -1,6 +1,6 @@
 # SQL Server Customer Summary Stored Procedure
 
-A SQL Server stored procedure project focused on customer analytics, data cleanup, reporting, and error handling using T-SQL.
+A SQL Server stored procedure project focused on customer analytics, data cleanup, reporting, and error handling .
 
 Created by **Mahdi Dehlaghi — Data Analyst**
 
